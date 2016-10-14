@@ -1,0 +1,146 @@
+body{
+  margin-left: auto;
+  margin-top: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+}
+#header{
+  width: 100%;
+  background-color:405d9b;
+  width: 1349;
+  height: 95;
+}
+#first {
+  width: 40%;
+  margin-right: auto;
+
+}
+#sec{
+width: 60%;
+margin-left: auto;
+float: right;
+
+
+}
+#first img{
+  margin-left: 195;
+  margin-top: 6%;
+  width: 158;
+  height: 44;
+  float: left;
+}
+#signup{
+  margin-left: 55%;
+  margin-top: 0%;
+}
+.login{
+
+  color: FFFFFF;
+  background-color: 4a8bf6;
+  height: 20;
+  width: 52;
+  margin-left:22;
+  margin-top: 48;
+  float: left;
+}
+.texts{
+  color:  FFFFFF;
+}
+
+#email{
+  width: 20%;
+margin-left: 100;
+margin-top: 30;
+float: left;
+}
+#password{
+  width: 20%;
+  float: left;
+  margin-left: 3%;
+  margin-top: 30;
+}
+#login{
+  width: 20%;
+  float: left;
+
+}
+#content{
+  width: 100%;
+  height: 500px;
+  background: linear-gradient(#ffffff,#d4d9e9);
+
+}
+#img{
+  width: 50%;
+  float: left;;
+}
+#img img{
+  margin-left: 75;
+  margin-top: 20;
+}
+#img h2{
+  margin-left: 80;
+  margin-top: 45;
+}
+#box{
+  width: 50%;
+  float: right;
+
+}
+#box h1{
+  margin-left: 20;
+}
+#footer{
+  margin-top: 30;
+}
+#box h2{
+  margin-left: 20;
+}
+.firstbox{
+  width: 150;
+  height: 29;
+  margin-left: 20px;
+  border-radius: 3px;
+  padding-left: 5px;
+}
+.secbox{
+  width: 150;
+  height: 29;
+  margin-left: 20;
+  border-radius: 3px;
+  padding-left: 5px;
+}
+.textstyle{
+    width: 312;
+    height: 29;
+    margin-left: 20;
+    border-radius: 3px;
+    padding-left: 5px;
+}
+#button{
+  background-color: green;
+  margin-left: 694;
+  width: 202;
+  height: 40;
+  border-radius: 5px;
+  padding-left: 5px;
+}
+.birthday{
+  margin-left: 20;
+  border-radius: 5px;
+  padding-left: 5px;
+}
+.foo
+{
+  margin-top: 45;
+}
+.radio{
+  margin-left: 700;
+}
+.aria{
+  margin-left: 20;
+  border-radius: 5px;
+  padding-left: 5px;
+  width:57;
+  height:27;
+}
