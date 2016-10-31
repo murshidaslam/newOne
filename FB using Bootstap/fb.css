@@ -1,0 +1,209 @@
+body{
+  margin-left: auto;
+  margin-top: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+    background-color:#3b5997;
+}
+.header{
+  width: 100%;
+  height: 90px;
+  background-color:#3b5997;
+
+}
+.first {
+  width: 40%;
+  margin-right: auto;
+
+}
+.img{
+  width: 184px;
+  height: 48px;
+  margin-left: 15%;
+  margin-top: 4.3%;
+}
+.texts{
+  color:  FFFFFF;
+}
+@media screen and (max-width:480px) {
+  .font{ color: black;}
+}
+.font{
+  color: white;
+
+}
+.forms{
+  height: 00px;
+}
+.btn{
+  width: 70;
+  margin: auto;
+  margin-top: 44px;
+}
+@media screen and (max-width:480px){
+.texts b{
+  display: none;
+}}
+.content{
+  width: 100%;
+  background-color: linear-gradient(#ffffff,#d4d9e9);
+}
+@media screen and (max-width: 480px) {
+    .content{
+        background-color: white;}
+}
+.img2{
+  width: 50%;
+  float: left;
+
+}
+.img2 img{
+  margin-left: 75;
+  margin-top: 20;
+}
+.img2 h2{
+  margin-left: 80;
+  margin-top: 45;
+}
+.box{
+  width: 50%;
+  float: right;
+
+}
+.box h1{
+  margin-left: 20;
+}
+.footer{
+  margin-top: 30;
+}
+.box h2{
+  margin-left: 20;
+}
+.firstbox{
+  width: 150;
+  height: 29;
+  margin-left: 20px;
+  border-radius: 3px;
+  padding-left: 5px;
+}
+.secbox{
+  width: 150;
+  height: 29;
+  margin-left: 20;
+  border-radius: 3px;
+  padding-left: 5px;
+}
+.textstyle{
+    width: 312;
+    height: 29;
+    margin-left: 20;
+    border-radius: 3px;
+    padding-left: 5px;
+
+}
+.button{
+  background-color: green;
+  margin-left: 694;
+  width: 202;
+  height: 40;
+  border-radius: 5px;
+  padding-left: 5px;
+}
+.birthday{
+  margin-left: 20;
+  border-radius: 5px;
+  padding-left: 5px;
+}
+.foo
+{
+  margin-top: 45;
+}
+.rradioo{
+margin-left: 120px;
+}
+.aria{
+  margin-left: 20;
+  border-radius: 5px;
+  padding-left: 5px;
+  width:57;
+  height:27;
+}
+.aa{
+  width:100%;
+}
+.misc{
+  align-items: center;
+}
+label{
+  color: red;
+  padding-left: 14px;
+  font-weight: lighter;
+  font-size: 13;
+}
+.middle{
+  margin-top: 10%;
+}
+  .cont{
+  background : linear-gradient(#ffffff,#d4d9e8);
+  height: 70%;
+  width:101%;
+  }
+  .conta{
+  background-color: #d4d9e4;
+  height: 100%;
+  width:100%;
+  }
+
+.ee{
+  padding-right: 12;
+}
+.middle{
+height: 10px;
+/*border: 1px #333 solid;*/
+}
+.img3{
+  height: 40px;
+  width:30px;
+}
+.middd{
+  text-align: center;
+  margin-top: 50px;
+}
+.middd h4{
+  text-align: left;
+}
+.butt{
+  text-align: center;
+  width: 250;
+  height: 29;
+}
+.search{
+  margin-top: 35px;
+}
+.sea{
+  width: 470;
+}
+.murshi{
+  margin-right: 20;
+}
+.posts{
+  height: 70%;
+  background-color: white;
+  margin-top: 2%;
+}
+.pwn{
+  height: 30%;
+  background-color: white;
+  margin-top: 2%;
+}
+.ff{
+  height: 50%;
+  background-color: white;
+    margin-top: 8%;
+    width: 210;
+}
+.fff{
+  height: 50%;
+  background-color: white;
+    margin-top: 4.5%;
+    width: 310;
